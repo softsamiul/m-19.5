@@ -1,0 +1,4 @@
+1. Celcius to Farenhite
+2. farenhiteToCelcius
+3. Grade calculation system
+4. Simple interest calculation 
